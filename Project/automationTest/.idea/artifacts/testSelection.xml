@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="testSelection">
+    <output-path>$PROJECT_DIR$/out/artifacts/testSelection</output-path>
+    <root id="archive" name="testSelection.jar">
+      <element id="module-output" name="automationTest" />
+      <element id="library" level="project" name="Maven: com.ibm.wala:com.ibm.wala.core:1.5.5" />
+      <element id="library" level="project" name="Maven: com.ibm.wala:com.ibm.wala.shrike:1.5.5" />
+      <element id="library" level="project" name="Maven: com.ibm.wala:com.ibm.wala.util:1.5.5" />
+    </root>
+  </artifact>
+</component>
